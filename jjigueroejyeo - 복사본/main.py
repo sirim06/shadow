@@ -42,8 +42,10 @@ stage_1_image = pygame.transform.scale(stage_1_image,(140,140))
 cha_image = pygame.image.load("data/image/cha 1.png")
 cha_image = pygame.transform.scale(cha_image,(50,50))
 
-bar_image = pygame.image.load("data/image/bar.png")
-bar_image = pygame.transform.scale(bar_image,(50,20))
+#sound_plus_image = pygame.image.load("data/image/plus.png")
+#sound_plus_image = pygame.transform.scal
+
+#sound_minus_image = pygame.image.load("data/image/minus.png")
 
 main_sound = pygame.mixer.Sound("data/sound/main_sound.mp3")
 
